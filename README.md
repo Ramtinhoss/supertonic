@@ -14,6 +14,7 @@
 ### Table of Contents
 
 - [Why Supertonic?](#why-supertonic)
+- [See it in Action](#see-it-in-action)
 - [Language Support](#language-support)
 - [Getting Started](#getting-started)
 - [Performance](#performance)
@@ -29,6 +30,11 @@
 - **⚙️ Highly Configurable**: Adjust inference steps, batch processing, and other parameters to match your specific needs
 - **🧩 Flexible Deployment**: Deploy seamlessly across servers, browsers, and edge devices with multiple runtime backends.
 
+## See it in Action
+
+Watch Supertonic running on a **Raspberry Pi**—demonstrating on-device, real-time text-to-speech synthesis:
+
+https://github.com/user-attachments/assets/ea66f6d6-7bc5-4308-8a88-1ce3e07400d2
 
 ## Language Support
 
